@@ -31,7 +31,7 @@ app.add_middleware(
 
 # document loader  
 
-loader = DocumentLoader()s
+loader = DocumentLoader()
 
 # text splitter 
 
